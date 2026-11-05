@@ -25,7 +25,7 @@ Webcam hanya berjalan di Chrome setelah izin kamera diberikan.
 
 - **Klasifikasi citra multi-kelas**, 2–5 kelas; disarankan **3–5**.
 - Lebih dari 5 kelas harus dipangkas dulu — notebook berhenti dengan pesan.
-- Minimal 6 gambar per kelas; disarankan 25 atau lebih.
+- Minimal 6 gambar per kelas; disarankan lebih dari itu.
 - Struktur ZIP: folder per kelas di root, `train/val/test`, atau `train` + `test`.
 - Ukuran gambar 128 px, backbone MobileNetV2 dibekukan, hanya head yang dilatih.
 
