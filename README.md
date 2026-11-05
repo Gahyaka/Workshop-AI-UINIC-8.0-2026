@@ -25,9 +25,19 @@ Webcam hanya berjalan di Chrome setelah izin kamera diberikan.
 
 - **Klasifikasi citra multi-kelas**, 2–5 kelas; disarankan **3–5**.
 - Lebih dari 5 kelas harus dipangkas dulu — notebook berhenti dengan pesan.
-- Minimal 6 gambar per kelas; disarankan lebih dari itu.
 - Struktur ZIP: folder per kelas di root, `train/val/test`, atau `train` + `test`.
 - Ukuran gambar 128 px, backbone MobileNetV2 dibekukan, hanya head yang dilatih.
+
+## Tema SDGs
+
+- SDG 3 — Good Health and Well-Being
+- SDG 2 & SDG 15 — Zero Hunger & Life on Land
+- SDG 6 — Clean Water and Sanitation
+- SDG 11 — Sustainable Cities and Communities
+- SDG 12 — Responsible Consumption and Production
+- SDG 13 — Climate Action
+
+Pilih satu tema untuk kelompokmu. Contoh kasus dan kata kunci pencarian dijelaskan narasumber saat sesi.
 
 ## Alur singkat
 
@@ -45,6 +55,19 @@ Webcam hanya berjalan di Chrome setelah izin kamera diberikan.
 | Akhir | Rangkuman dan catatan | 7 butir `CATATAN` |
 
 Eksperimen E2: ubah **satu** variabel saja — disarankan `learning_rate` (1e-3 → 1e-4 bila loss melompat, 1e-2 bila terlalu lambat).
+
+## Output Peserta
+Menyelesaikan notebook yang sudah berjalan sampai `CATATAN` (tujuh butir catatan) dan slide presentasi.
+
+| Outtline PPT |
+|---|
+| Latar belakang & SDGs | 
+| Dataset | 
+| Processing & augmentasi | 
+| Hyperparameter |
+| Evaluation |
+| Inference | 
+| Kesimpulan |
 
 ## Masalah umum
 
