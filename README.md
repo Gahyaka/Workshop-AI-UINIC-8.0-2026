@@ -1,0 +1,1 @@
+# Workshop-AI-UINIC-8.0-2026
