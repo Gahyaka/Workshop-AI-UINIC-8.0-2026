@@ -9,8 +9,8 @@ Workshop: Sabtu, 7 November 2026 · FST 303 UIN Sunan Kalijaga
 
 | Notebook | Untuk | Buka |
 |---|---|---|
-| `01_peserta_hands_on.ipynb` | Peserta: 6 misi dengan rumpang dan cek otomatis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USER/REPO/blob/main/01_peserta_hands_on.ipynb) |
-| `02_narasumber.ipynb` | Narasumber: versi terisi untuk demo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USER/REPO/blob/main/02_narasumber.ipynb) |
+| `Workshop_AI_UINIC_8_0_Peserta_HandsOn.ipynb` | Hands-on Peserta | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/USER/REPO/blob/main/01_peserta_hands_on.ipynb](https://colab.research.google.com/drive/16mrCq6MZOxGYUWy-2AGJ2_T1pMTTs10L?usp=sharing)) |
+| `Workshop_AI_UINIC_8_0_Narasumber` | Demo Narsum | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10FftbfC8kQTHHp0Ilhnyy-fSg5MahA2I?usp=sharing) |
 
 **Langkah membuka:**
 
