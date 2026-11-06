@@ -63,7 +63,7 @@ Menyelesaikan notebook yang sudah berjalan sampai `CATATAN` (tujuh butir catatan
 |---|
 | Latar belakang & SDGs | 
 | Dataset | 
-| Processing & augmentasi | 
+| Preprocessing & augmentasi | 
 | Hyperparameter |
 | Evaluation |
 | Inference | 
